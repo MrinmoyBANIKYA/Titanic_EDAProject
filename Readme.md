@@ -66,13 +66,13 @@ These tools were used for **data manipulation, visualization, and exploratory an
 
 ---
 
-#  Exploratory Data Analysis
+# 🔍 Exploratory Data Analysis
 
 The analysis is divided into multiple stages to systematically explore the dataset.
 
 ---
 
-# Univariate Analysis
+# 📈 Univariate Analysis
 
 Univariate analysis focuses on examining the **distribution of individual variables**.
 
@@ -96,7 +96,7 @@ This analysis helps identify:
 
 ---
 
-# Bivariate Analysis
+# 🔗 Bivariate Analysis
 
 Bivariate analysis explores relationships between variables.
 
@@ -112,7 +112,7 @@ This helps identify which variables strongly influenced survival probability.
 
 ---
 
-# Feature Engineering
+# ⚙️ Feature Engineering
 
 Several new features were created to improve the analysis.
 
@@ -179,39 +179,38 @@ Below are some important visualizations used in the analysis.
 
 ## Age Distribution
 
-![Age Distribution](image.png)
-
-![Age Distribution](image-1.png)
+![Age Distribution](C:\Users\mrinm\OneDrive\Desktop\EDACampusX\images)
 
 ---
 
 ## Fare Distribution
 
-![Fare Distribution](image-2.png)
-![Fare Distribution](image-3.png)
+![Fare Distribution](C:\Users\mrinm\OneDrive\Desktop\EDACampusX\images)
 
 ---
 
 ## Survival Distribution
 
-![Survival Count](image-4.png)
+![Survival Count](C:\Users\mrinm\OneDrive\Desktop\EDACampusX\images)
+
 ---
 
 ## Survival vs Gender
 
-![Survival vs Sex](image-5.png)
+![Survival vs Gender](C:\Users\mrinm\OneDrive\Desktop\EDACampusX\images)
 
 ---
 
 ## Survival vs Passenger Class
 
-![Survived vs Pclass](image-7.png)
+![Survival vs Passenger Class](C:\Users\mrinm\OneDrive\Desktop\EDACampusX\images)
 
 ---
 
-## Survival vs Deck
+## Family Size Analysis
 
-![Survival vs Deck](image-6.png)
+![Family Size](C:\Users\mrinm\OneDrive\Desktop\EDACampusX\images)
+
 ---
 
 # ▶️ How to Run the Project
